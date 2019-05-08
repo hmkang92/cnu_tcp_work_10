@@ -1,0 +1,10 @@
+--2019-05-08 13:48:21--  https://drive.google.com/uc?authuser=0
+Resolving drive.google.com (drive.google.com)... 172.217.25.110, 2404:6800:4004:818::200e
+Connecting to drive.google.com (drive.google.com)|172.217.25.110|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://drive.google.com/uc [following]
+--2019-05-08 13:48:21--  https://drive.google.com/uc
+Reusing existing connection to drive.google.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2019-05-08 13:48:22 ERROR 400: Bad Request.
+
